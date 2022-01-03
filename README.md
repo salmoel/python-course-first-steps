@@ -12,7 +12,7 @@ Você quer aprender uma linguagem de programação, mas não sabe por onde come�
 
 **Link do curso:** https://docs.microsoft.com/pt-br/learn/paths/python-first-steps/
 
-#### O que é uma linguagem de programação?
+## O que é uma linguagem de programação?
 Linguagens de programação como o Python permitem que você escreva instruções que deseja que sejam executadas pelo computador.
 
 Cada linguagem de programação tem uma sintaxe diferente. Mas, depois de aprender sua primeira linguagem de programação e então tentar aprender outra, você perceberá que todas elas compartilham muitas ideias semelhantes.
