@@ -81,3 +81,18 @@ Por fim, você pode usar uma ferramenta de software especial chamada de depurado
 - Ver as alterações que o código faz aos valores armazenados na RAM.
 
 Você pode editar o código que será executado em seguida durante a execução do programa. Essas edições geralmente não podem ser feitas com linguagens de programação que não são interpretadas. Essa edição é apenas outro motivo pelo qual o Python é considerado amigável para iniciantes.
+
+## Qual é o processo de programação?
+Por que os desenvolvedores de software escrevem código em primeiro lugar? Normalmente, eles agem para resolver uma necessidade ou um problema que requer uma solução.
+
+À medida que você começa, sua necessidade pode ser uma atribuição ou um desafio de codificação para um curso. Posteriormente, sua necessidade provavelmente será um problema empresarial a automatizar.
+
+## Criando um novo programa
+A criação de um novo programa segue uma série previsível de ações:
+
+1. **Analisar os requisitos:** A primeira etapa é entender o problema que você está tentando resolver. A maneira como você começa depende de se você está criando o programa para atender a um professor, a um cliente ou a si próprio. Normalmente, você deseja se aprofundar no problema. Você faz perguntas críticas sobre qual é o problema, lê qualquer comunicação ou anotação disponível e executa outras ações.
+2. **Projetar uma solução:** Em seguida, você começa a pensar em considerações como a aparência do programa, sua funcionalidade e o que acontece quando surge um problema inesperado. Você pode desenhar diagramas, fazer anotações ou visualizar mentalmente o design do programa. Você também pode começar a imaginar a abordagem que será adotada para determinados desafios em seu código.
+3. **Escrever seu código:** Você passa mais tempo escrevendo código que realiza o design que você criou.
+4. **Testar seu código:** À medida que você escreve o código, testa para ver se ele funciona corretamente. Posteriormente, você poderá adicionar um teste mais formal que, inclusive, envolva os usuários.
+5. **Implantar seu código:** Você distribui seu código para outras pessoas para que elas possam começar a usá-lo para resolver os próprios problemas. Ou, em uma sala de aula, você pode enviar seu código para um instrutor, que é uma forma de implantação.
+6. **Mantenha seu código:** Ao longo do tempo, os usuários do programa podem solicitar novos recursos ou relatar bugs em seu programa. Corrija os problemas e redistribua o código para os usuários.
