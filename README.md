@@ -9,5 +9,5 @@ Você quer aprender uma linguagem de programação, mas não sabe por onde come�
 - Armazenará e manipulará dados para modificar o tipo e a aparência deles
 - Executará a funcionalidade interna disponível em bibliotecas de código
 - Adicionará lógica ao seu código para habilitar a funcionalidade empresarial complexa
-- 
-**[Link do curso]:** https://docs.microsoft.com/pt-br/learn/paths/python-first-steps/
+
+**Link do curso:** https://docs.microsoft.com/pt-br/learn/paths/python-first-steps/
