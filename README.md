@@ -130,3 +130,8 @@ Neste módulo, você vai:
 - Concatenar o texto embutido em código com a entrada do usuário a fim de exibir mensagens com formatação personalizada ao usuário.
 - Executar adição matemática sobre dados numéricos.
 - Converter dados alfanuméricos em dados numéricos e vice-versa (e saber por que você precisa fazer isso).
+
+## Introdução
+Uma meta comum de muitos programas é pegar uma entrada, processá-la, formatá-la e, em seguida, retorná-la na saída de algum modo. Neste módulo, você escreverá código Python para executar cada uma dessas tarefas. Ao longo do caminho, você aprenderá muitos conceitos fundamentais, como trabalhar usando dados, executar operações sobre dados, recuperar entradas, gerar saídas e muito mais.
+
+Até o fim deste módulo, você será capaz de criar aplicativos simples que aceitam uma entrada do usuário, combinam essa entrada com texto literal e retornam o resultado ao usuário. E o mais importante: você terá executado as primeiras etapas essenciais para aprender Python.
