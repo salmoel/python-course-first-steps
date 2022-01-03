@@ -117,3 +117,16 @@ Neste módulo, você aprendeu:
 - Por que você deve compilar instruções escritas usando uma linguagem de programação em um formato que um computador entenda.
 - As diferentes etapas a serem executadas em praticamente todos os programas que você escreve.
 - Você precisa instalar algumas ferramentas para criar seu ambiente de desenvolvimento de software.
+
+## Criando o primeiro programa Python
+
+#### Objetivos de aprendizagem
+Neste módulo, você vai:
+
+- Criar arquivos de código Python e executar esse código dentro do Visual Studio Code.
+- Escrever código para enviar uma mensagem de texto à linha de comando.
+- Escrever código para aceitar entradas do usuário da linha de comando.
+- Entender por que ocorrem os erros de compilação e de runtime e o que fazer em seguida.
+- Concatenar o texto embutido em código com a entrada do usuário a fim de exibir mensagens com formatação personalizada ao usuário.
+- Executar adição matemática sobre dados numéricos.
+- Converter dados alfanuméricos em dados numéricos e vice-versa (e saber por que você precisa fazer isso).
