@@ -12,6 +12,16 @@ Você quer aprender uma linguagem de programação, mas não sabe por onde come�
 
 **Link do curso:** https://docs.microsoft.com/pt-br/learn/paths/python-first-steps/
 
+#### Objetivos de aprendizagem
+Neste módulo, você aprenderá:
+
+- O que uma linguagem de programação faz.
+- Por que o Python é tão popular.
+- Por que o Python é uma ótima opção como sua primeira linguagem de programação.
+- Por que você deve compilar seu código em um formato que os computadores entendam.
+- O processo de programação.
+- Quais ferramentas de software você deve instalar.
+
 ## O que é uma linguagem de programação?
 Linguagens de programação como o Python permitem que você escreva instruções que deseja que sejam executadas pelo computador.
 
@@ -34,3 +44,19 @@ Há dezenas de linguagens de programação diferentes. Os programadores descobri
 O Python foi criado para simplificar o desenvolvimento de software mascarando interações mais complexas com o hardware. A desvantagem é que o Python oferece menos controle sobre essas interações. Portanto, o Python pode não ser ideal para alguns aplicativos com uso intenso do processador.
 
 Outras linguagens de programação proporcionam maior controle sobre as interações complexas com o hardware. Se usadas corretamente, elas podem gerar um desempenho melhor do que o Python. Porém, podem ser mais difíceis de entender. Muitos aplicativos de software não exigem esse nível de otimização para aprimorar o desempenho.
+
+## O que é compilação?
+Mencionamos anteriormente que o código-fonte deve ser compilado antes que possa ser executado. Nesta unidade, você vai trabalhar para entender um pouco melhor a compilação. Você também verá como a compilação e a execução do Python diferem das outras linguagens de programação e modelos de execução tradicionais.
+
+Depois de terminar de escrever o código-fonte, você geralmente usa um programa especial chamado de compilador. Esse programa converte o código-fonte em um formato que a CPU de um computador pode executar.
+
+## Por que você precisa compilar seu código-fonte?
+A maioria das linguagens de programação parece ser criptografada a princípio. Mas uma linguagem de programação é para preencher uma lacuna entre seres humanos e computadores. Os seres humanos falam usando uma linguagem humana, mas um computador precisa de instruções que possam ser convertidas em uma linguagem binária que ele processa ativando e desativando milhares de pequenos comutadores. Os compiladores conectam esses dois mundos, convertendo as instruções legíveis por seres humanos em instruções compreendidas pelos computadores.
+
+Essas instruções são coletadas e compactadas em um arquivo, que pode ser executado por um usuário.
+
+## Executáveis
+Com muitas linguagens de programação, cada vez que você altera o código-fonte, deve recompilar o aplicativo para criar um arquivo executável. No entanto, sempre que um usuário deseja executar um programa, esse usuário simplesmente abre o arquivo executável compilado. Nenhuma compilação adicional é necessária.
+
+## Compilar por plataforma
+Você geralmente deve usar um compilador para sua plataforma de computação específica. Por exemplo, para executar o programa em um computador Windows, você deve compilar usando um compilador do Windows. Para executar o programa em um computador macOS, você deve compilar usando um compilador do macOS.
