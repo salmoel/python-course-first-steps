@@ -60,3 +60,24 @@ Com muitas linguagens de programação, cada vez que você altera o código-font
 
 ## Compilar por plataforma
 Você geralmente deve usar um compilador para sua plataforma de computação específica. Por exemplo, para executar o programa em um computador Windows, você deve compilar usando um compilador do Windows. Para executar o programa em um computador macOS, você deve compilar usando um compilador do macOS.
+
+## O interpretador
+Um interpretador é um programa que executa cada instrução. Ele controla o local em que armazena os valores na RAM. Um interpretador também sabe como interagir com recursos externos, como um sistema de arquivos ou uma rede.
+
+> Em outras palavras, um interpretador é um ambiente de execução que gerencia interações complexas entre sua intenção e os trabalhos internos do computador.
+
+Além disso, sempre que você executa o programa, seu código-fonte Python é recompilado.
+
+Essa abordagem oferece vários benefícios:
+- Disponível para muitas plataformas. Um interpretador Python está disponível para muitas plataformas de computador. Por exemplo, se você escrever código Python no Linux, ele também será executado no macOS e no Windows. Você pode executar um programa sem a necessidade de compilar seu código-fonte para uma plataforma de computação específica.
+- Execução linha a linha. Você pode escrever e executar uma linha do Python de cada vez. Conforme você aprende, talvez queira experimentar uma nova ideia sem precisar criar um projeto ou arquivo. Em vez disso, você simplesmente executa o Python no modo interativo e começa a inserir o código Python em um terminal ou em uma linha de comando. Esse código é perdido quando você sai do modo interativo do Python. Porém, para um experimento rápido, funciona bem.
+
+## Usando um depurador
+Por fim, você pode usar uma ferramenta de software especial chamada de depurador para:
+
+- Editar seu programa enquanto ele está em execução.
+- Pausar a execução do seu programa.
+- Percorrer cada linha de código Python para observar a execução.
+- Ver as alterações que o código faz aos valores armazenados na RAM.
+
+Você pode editar o código que será executado em seguida durante a execução do programa. Essas edições geralmente não podem ser feitas com linguagens de programação que não são interpretadas. Essa edição é apenas outro motivo pelo qual o Python é considerado amigável para iniciantes.
