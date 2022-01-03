@@ -98,3 +98,12 @@ A criação de um novo programa segue uma série previsível de ações:
 6. **Mantenha seu código:** Ao longo do tempo, os usuários do programa podem solicitar novos recursos ou relatar bugs em seu programa. Corrija os problemas e redistribua o código para os usuários.
 
 Você pode ser o único usuário do seu programa. Ou você pode trabalhar em uma equipe grande e distribuir seu programa para milhares de usuários. Em ambos os casos, o processo básico é o mesmo. Escrever código é importante, mas não é a única etapa, mesmo quando você resolve desafios de codificação ou atribuições para uma classe.
+
+## Como escrever código
+A maioria dos tutoriais e classes geralmente se concentra em escrever código. Concentram-se na codificação provavelmente porque essa é a etapa mais difícil e a mais divertida. Também é a atividade que exige um profundo conhecimento para ser concluída. Essa etapa tem um processo próprio:
+
+1. **Identifique**, foque uma pequena parte do problema maior.
+2. **Implemente**, escreva um código para implementar essa pequena parte.
+3. **Execute**, rode o programa e observe-o funcionar. Se ele funcionar incorretamente, descobrir o motivo.
+4. **Altere**, reescreva o código para corrigir problemas.
+5. **Repita**, continue repetindo esse processo até terminar.
