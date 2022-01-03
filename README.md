@@ -107,3 +107,13 @@ A maioria dos tutoriais e classes geralmente se concentra em escrever código. C
 3. **Execute**, rode o programa e observe-o funcionar. Se ele funcionar incorretamente, descobrir o motivo.
 4. **Altere**, reescreva o código para corrigir problemas.
 5. **Repita**, continue repetindo esse processo até terminar.
+
+## Resumo
+Neste módulo, você aprendeu:
+
+- O que uma linguagem de programação faz.
+- Por que o Python é tão popular.
+- Por que o Python é uma ótima opção como a primeira linguagem de programação que você aprende.
+- Por que você deve compilar instruções escritas usando uma linguagem de programação em um formato que um computador entenda.
+- As diferentes etapas a serem executadas em praticamente todos os programas que você escreve.
+- Você precisa instalar algumas ferramentas para criar seu ambiente de desenvolvimento de software.
