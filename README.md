@@ -96,3 +96,5 @@ A criação de um novo programa segue uma série previsível de ações:
 4. **Testar seu código:** À medida que você escreve o código, testa para ver se ele funciona corretamente. Posteriormente, você poderá adicionar um teste mais formal que, inclusive, envolva os usuários.
 5. **Implantar seu código:** Você distribui seu código para outras pessoas para que elas possam começar a usá-lo para resolver os próprios problemas. Ou, em uma sala de aula, você pode enviar seu código para um instrutor, que é uma forma de implantação.
 6. **Mantenha seu código:** Ao longo do tempo, os usuários do programa podem solicitar novos recursos ou relatar bugs em seu programa. Corrija os problemas e redistribua o código para os usuários.
+
+Você pode ser o único usuário do seu programa. Ou você pode trabalhar em uma equipe grande e distribuir seu programa para milhares de usuários. Em ambos os casos, o processo básico é o mesmo. Escrever código é importante, mas não é a única etapa, mesmo quando você resolve desafios de codificação ou atribuições para uma classe.
